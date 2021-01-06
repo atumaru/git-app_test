@@ -7,6 +7,9 @@ class TestsController < ApplicationController
 def aaa
 end
 
+def bbb
+end
+
   
 end    
   
