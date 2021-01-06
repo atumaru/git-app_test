@@ -4,6 +4,10 @@ class TestsController < ApplicationController
   def new
   end
   
-    
+def aaa
+end
+
+  
+end    
   
 end
